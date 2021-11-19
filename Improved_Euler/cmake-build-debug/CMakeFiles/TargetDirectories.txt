@@ -1,0 +1,3 @@
+C:/Users/Jayveer sinh  Raj/CLionProjects/SSAD/week6ex2/cmake-build-debug/CMakeFiles/week6ex2.dir
+C:/Users/Jayveer sinh  Raj/CLionProjects/SSAD/week6ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jayveer sinh  Raj/CLionProjects/SSAD/week6ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
